@@ -1,5 +1,6 @@
 # deep_drive-analysis-interactive-dashboarding
 To answer complex,multi-faceted business problems by performing a deep-dive analysis and buliding an interactive,automated dashboard
+
 Task 3 – Deep-Dive Analysis & Interactive Dashboarding (Power BI)
 Overview
 This project focuses on customer transaction data. Using Power BI, the dashboard provides KPI cards, cohort analysis, and interactive visuals to understand revenue performance and customer retention.
